@@ -37,6 +37,7 @@ const App = () => {
         title: song.title || "Unknown Title", // Ensure name is fetched correctly
         artist: song.artist || "Unknown Artist",
         image: song.albumArt || "https://via.placeholder.com/150", // Check album art
+        url: song.url 
       }));
   
       setSongs(formattedSongs);
@@ -65,8 +66,7 @@ const App = () => {
       <div style={styles.songGrid}>
         {songs.map((song, index) => (
           <div key={index} style={styles.songCard}>
-            {/* <img src={song.image || "https://via.placeholder.com/150"} alt="Album Art" style={styles.albumArt} /> */}
-            <h3>{song.title}</h3>
+            <a href={song.url} >{song.title}</a>
             <p>{song.artist}</p>
             
           </div>
@@ -91,7 +91,7 @@ const styles = {
     backgroundColor: "#f9f9f9",
   },
   albumArt: { width: "100%", borderRadius: "10px" },
-};
+  };
 
 export default App;
 
