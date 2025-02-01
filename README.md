@@ -82,7 +82,7 @@ Site Overview
 
 ### Project Demo
 # Video
-[VIDEO 1](https://drive.google.com/file/d/1xR3OT5OLPNavh9C9Fd8aHNBo4HkfFbwz/view?usp=sharing)
+[VIDEO](https://drive.google.com/file/d/1xR3OT5OLPNavh9C9Fd8aHNBo4HkfFbwz/view?usp=sharing)
 
 
 Uploading Screen Recording 2025-02-01 175506 (1).mp4…
