@@ -82,7 +82,7 @@ Site Overview
 
 ### Project Demo
 # Video
-https://github.com/dhiyatheresjoshy/emotionfy/blob/master/Screen%20Recording%202025-02-01%20175506%20(1).mp4
+[VIDEO 1](https://drive.google.com/file/d/1xR3OT5OLPNavh9C9Fd8aHNBo4HkfFbwz/view?usp=sharing)
 
 
 Uploading Screen Recording 2025-02-01 175506 (1).mp4…
