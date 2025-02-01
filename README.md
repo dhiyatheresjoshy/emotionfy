@@ -1,4 +1,4 @@
-# [Project Name] 🎯
+# EMOTIONFY 🎯
 
 
 ## Basic Details
@@ -9,14 +9,11 @@
 - Member 1: [Dhiya Theres Joshy] - [CET]
 
 
-### Hosted Project Link
-[mention your project hosted project link here]
-
 ### Project Description
 Emotion-Based Music Recommendation System:
 This project aims to create an interactive music recommendation system that uses facial expression recognition (FER) to detect a user's emotion and suggest songs accordingly. A camera captures the user's face, a backend processes the image using emotion detection algorithms, and the system recommends music based on the detected mood.
 
-### The Problem statement
+### The Problem Statement
 Music plays a crucial role in influencing and reflecting human emotions. However, selecting songs manually based on mood can be time-consuming. Many existing music recommendation systems rely on past listening history rather than real-time emotions. This project aims to solve this by offering personalized song recommendations based on a user’s facial expressions, making music selection seamless and engaging.
 
 ### The Solution
@@ -78,57 +75,24 @@ python emotion.py
 node server.js
 npm run dev
 
-### Project Documentation
-For Software:
-
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot 2025-02-01 182716](https://github.com/user-attachments/assets/3380fe35-c7e4-40a1-b94e-1f01725c8fc2)
+Site Overview
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Team](Add photo of your team here)
-
-
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
 
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+Uploading Screen Recording 2025-02-01 175506 (1).mp4…
 
----
-Made with ❤️ at TinkerHub
+
+
+
+Uploading Screen Recording 2025-02-01 183549 (1).mp4…
+
+
+This project aims to create an interactive music recommendation system that uses facial expression recognition (FER) to detect a user's emotion and suggest songs accordingly. A camera captures the user's face, a backend processes the image using emotion detection algorithms, and the system recommends music based on the detected mood.
+
+
+
