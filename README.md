@@ -85,14 +85,6 @@ Site Overview
 [VIDEO](https://drive.google.com/file/d/1xR3OT5OLPNavh9C9Fd8aHNBo4HkfFbwz/view?usp=sharing)
 
 
-Uploading Screen Recording 2025-02-01 175506 (1).mp4…
-
-
-
-
-Uploading Screen Recording 2025-02-01 183549 (1).mp4…
-
-
 This project aims to create an interactive music recommendation system that uses facial expression recognition (FER) to detect a user's emotion and suggest songs accordingly. A camera captures the user's face, a backend processes the image using emotion detection algorithms, and the system recommends music based on the detected mood.
 
 
